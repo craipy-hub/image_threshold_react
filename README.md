@@ -1,0 +1,13 @@
+## Image Threshold Tools
+
+This is an image threshold segmentation tool. Users upload an image, then adjust the slider to get a binary image that meets their expectations.
+
+### Deployment
+
+```bash
+npm install
+```
+
+```bash
+npm run dev
+```
